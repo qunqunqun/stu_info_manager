@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>sucai/ico_保洁管理_保洁登记（新）.png</file>
+        <file>sucai/icon_账号.png</file>
+        <file>sucai/保存.png</file>
+        <file>sucai/编辑.png</file>
+        <file>sucai/标记.png</file>
+        <file>sucai/打开文件.png</file>
+        <file>sucai/点赞.png</file>
+        <file>sucai/箭头.png</file>
+        <file>sucai/箭头_上下切换.png</file>
+        <file>sucai/垃圾桶1.png</file>
+        <file>sucai/删除表格.png</file>
+        <file>sucai/新建文件.png</file>
+        <file>sucai/增加学生信息.png</file>
+    </qresource>
+</RCC>
